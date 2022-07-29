@@ -1,0 +1,1 @@
+# wasmwabbitemu-static
